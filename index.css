@@ -1,0 +1,85 @@
+.boxes1{
+	position: absolute;
+	background-color: red;
+	height: 250px;
+	width: 250px;
+	left: 200px;
+	top: 350px;
+	transition-duration: 1s;
+	background-image: url(untitled-2-Edit-2.jpg);
+	background-repeat: none;
+	background-size: 500px 1000px;
+	z-index: 3;
+	border-radius: 50px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.boxes2{
+	position: absolute;
+	background-color: blue;
+	height: 250px;
+	width: 250px;
+	left: 900px;
+	top: 800px;
+	transition-duration: 2s;
+	background-image: url(monto441_1-15.jpg);
+	background-repeat: none;
+	background-size: 1000px 1000px;
+	z-index: 3;
+	border-radius: 50px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.boxes3{
+	position: absolute;
+	background-color: green;
+	height: 250px;
+	width: 250px;
+	left: 1000px;
+	top: 250px;
+	transition-duration: 3s;
+	background-image: url(monto441_1-13.jpg);
+	background-repeat: none;
+	background-size: 1500px 1000px;
+	z-index: 3;
+	border-radius: 50px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.background{
+	position: absolute;
+	z-index: 0;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	height: 1200px;
+	width: 1700px;
+}
+
+.one{
+	position: absolute;
+	left: 200px;
+	top: 350px;
+}
+
+.two{
+	position: absolute;
+	left: 900px;
+	top: 800px;
+}
+
+.three{
+	position: absolute;
+	left: 1000px;
+	top: 250px;
+}
